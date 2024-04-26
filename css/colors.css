@@ -1,0 +1,27 @@
+/* https://www.benjaminmoore.com/en-us */
+
+/* color palette */
+
+:root {
+  /* colors */
+  --primary:      hsl(190deg 10% 23.53%);
+  --matching-01:  hsl(48deg 62.5% 93.73%);
+  --matching-02:  hsl(31.15deg 66.1% 53.73%);
+  --matching-03:  hsl(55deg 31.58% 92.55%);
+  --matching-04:  hsl(56.47deg 18.68% 82.16%);
+  /* shades */
+  --shade-20: hsl(174.55deg 18.64% 88.43%);
+  --shade-21: hsl(180deg 16.5% 79.8%);
+  --shade-22: hsl(186.92deg 15.48% 67.06%);
+  --shade-23: hsl(184.29deg 11.2% 49.02%);
+  --shade-24: hsl(188.18deg 14.47% 29.8%);
+  --shade-25: hsl(190deg 5.88% 20%);
+  /* similar */
+  --similar-01: hsl(195deg 6.78% 23.14%);
+  --similar-02: hsl(180deg 13.76% 21.37%);
+  --similar-03: hsl(165deg 3.39% 23.14%);
+  --similar-04: hsl(195deg 8.22% 28.63%);
+  /* transparency */
+  --matching-01-05:   hsla(48, 62.5%, 93.73%, 0.5);
+  --shade-25-02:      hsla(190, 5.88%, 20%, 0.15);
+}
